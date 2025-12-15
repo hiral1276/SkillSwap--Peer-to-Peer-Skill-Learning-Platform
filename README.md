@@ -121,7 +121,7 @@ SkillSwap (root)
 |   |   ├── App.js                       ← Main app router/component
 │   │   ├── Index.css                  
 │   │   ├── index.js                     ← Entry point (ReactDOM render)
-│   │   └── mock.js                      ← Mock data for development
+│   │   └── mock.js                      ← Dummy data for development
 |   ├── .env.example   
 |   ├── component.json
 |   ├── craco.config.js       
@@ -219,4 +219,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 #   S k i l l S w a p - - P e e r - t o - P e e r - S k i l l - L e a r n i n g - P l a t f o r m 
  
  
+
 
