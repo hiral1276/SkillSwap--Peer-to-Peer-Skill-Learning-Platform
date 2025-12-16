@@ -188,9 +188,13 @@ SkillSwap (root)
 ## 📊 Measurable Outcomes
 
 ✅ Built Full-stack peer-to-peer platform with AI integration
+
 ✅ Implemented Real-time chat using WebSockets
+
 ✅ Created Responsive dark-themed UI with Tailwind css
+
 ✅ Secure auth and API design
+
 ✅ Portfolio-ready project showcasing React + Python skills
 
 ## 🎯 Use Cases
@@ -219,5 +223,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 #   S k i l l S w a p - - P e e r - t o - P e e r - S k i l l - L e a r n i n g - P l a t f o r m 
  
  
+
 
 
