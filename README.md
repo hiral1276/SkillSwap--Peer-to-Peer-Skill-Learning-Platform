@@ -23,6 +23,7 @@ A modern, responsive peer-to-peer skill learning platform where users can teach 
 ### Desktop View
 ![Landing Page](screenshots/landing-desktop.png)  
 ![Dashboard](screenshots/dashboard-desktop.png)  
+![Profile Page](screenshots/profile-desktop.png)
 ![Messages & Chat](screenshots/messages-desktop.png)  
 ![AI Assistant](screenshots/ai-assistant-desktop.png)  
 ![About Page](screenshots/about-desktop.png)  
@@ -33,6 +34,7 @@ A modern, responsive peer-to-peer skill learning platform where users can teach 
 ### Mobile View
 ![Mobile Landing](screenshots/landing-mobile.png)  
 ![Mobile Dashboard](screenshots/dashboard-mobile.png)  
+![Mobile Profile](screenshots/profile-mobile.png)
 ![Mobile Chat](screenshots/messages-mobile.png)  
 
 *Fully responsive dark purple theme with mobile-first approach*
@@ -242,6 +244,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 #   S k i l l S w a p - - P e e r - t o - P e e r - S k i l l - L e a r n i n g - P l a t f o r m 
  
  
+
 
 
 
