@@ -21,32 +21,32 @@ A modern, responsive peer-to-peer skill learning platform where users can teach 
 ## Screenshots
 
 ### Desktop View
-![Landing Page](frontend/public/screenshots/landing-desktop.png) 
+![Landing Page](frontend/screenshots/landing-desktop.png) 
 
-![Dashboard](frontend/public/screenshots/dashboard-desktop.png)
+![Dashboard](frontend/screenshots/dashboard-desktop.png)
 
-![Profile Page](frontend/public/screenshots/profile-desktop.png)
+![Profile Page](frontend/screenshots/profile-desktop.png)
 
-![Messages & Chat](frontend/public/screenshots/messages-desktop.png)  
+![Messages & Chat](frontend/screenshots/messages-desktop.png)  
 
-![AI Assistant](frontend/public/screenshots/ai-assistant-desktop.png)
+![AI Assistant](frontend/screenshots/ai-assistant-desktop.png)
 
-![About Page](frontend/public/screenshots/about-desktop.png)
+![About Page](frontend/screenshots/about-desktop.png)
 
-![Contact Page](frontend/public/screenshots/contact-desktop.png)
+![Contact Page](frontend/screenshots/contact-desktop.png)
 
-![Signup](frontend/public/screenshots/signup-desktop.png) 
+![Signup](frontend/screenshots/signup-desktop.png) 
 
-![Login](frontend/public/screenshots/login-desktop.png)  
+![Login](frontend/screenshots/login-desktop.png)  
 
 ### Mobile View
 ![Mobile Landing](frontend/public/screenshots/landing-mobile.png) 
 
-![Mobile Dashboard](frontend/public/screenshots/dashboard-mobile.png) 
+![Mobile Dashboard](frontend/screenshots/dashboard-mobile.png) 
 
-![Mobile Profile](frontend/public/screenshots/profile-mobile.png)
+![Mobile Profile](frontend/screenshots/profile-mobile.png)
 
-![Mobile Chat](frontend/public/screenshots/messages-mobile.png)  
+![Mobile Chat](frontend/screenshots/messages-mobile.png)  
 
 *Fully responsive dark purple theme with mobile-first approach*
 
@@ -255,6 +255,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 #   S k i l l S w a p - - P e e r - t o - P e e r - S k i l l - L e a r n i n g - P l a t f o r m 
  
  
+
 
 
 
