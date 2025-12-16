@@ -40,7 +40,7 @@ A modern, responsive peer-to-peer skill learning platform where users can teach 
 ![Login](frontend/screenshots/login-desktop.png)  
 
 ### Mobile View
-![Mobile Landing](frontend/public/screenshots/landing-mobile.png) 
+![Mobile Landing](frontend/screenshots/landing-mobile.png) 
 
 ![Mobile Dashboard](frontend/screenshots/dashboard-mobile.png) 
 
@@ -255,6 +255,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 #   S k i l l S w a p - - P e e r - t o - P e e r - S k i l l - L e a r n i n g - P l a t f o r m 
  
  
+
 
 
 
