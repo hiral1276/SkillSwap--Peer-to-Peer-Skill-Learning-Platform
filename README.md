@@ -18,6 +18,23 @@ A modern, responsive peer-to-peer skill learning platform where users can teach 
 - **Responsive Design**: Optimized for mobile, tablet, and desktop with dark purple theme
 - **Contact Form**: Easy feedback/submission
 
+## Screenshots
+
+### Desktop View
+![Landing Page](screenshots/landing-desktop.png)  
+![Dashboard](screenshots/dashboard-desktop.png)  
+![Messages & Chat](screenshots/messages-desktop.png)  
+![AI Assistant](screenshots/ai-assistant-desktop.png)  
+![Signup](screenshots/signup-desktop.png)  
+![Login](screenshots/login-desktop.png)  
+
+### Mobile View
+![Mobile Landing](screenshots/landing-mobile.png)  
+![Mobile Dashboard](screenshots/dashboard-mobile.png)  
+![Mobile Chat](screenshots/messages-mobile.png)  
+
+*Fully responsive dark purple theme with mobile-first approach*
+
 ## 🛠️ Tech Stack
 
 **Frontend**
@@ -223,6 +240,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 #   S k i l l S w a p - - P e e r - t o - P e e r - S k i l l - L e a r n i n g - P l a t f o r m 
  
  
+
 
 
 
