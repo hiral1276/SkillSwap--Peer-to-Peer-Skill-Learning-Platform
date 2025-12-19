@@ -204,9 +204,13 @@ SkillSwap (root)
 ## 📊 Measurable Outcomes
 
 ✅ Built Full-stack peer-to-peer platform with AI integration
+
 ✅ Implemented Real-time chat using WebSockets
+
 ✅ Created Responsive dark-themed UI with Tailwind css
+
 ✅ Secure auth and API design
+
 ✅ Portfolio-ready project showcasing React + Python skills
 
 ## 🎯 Use Cases
@@ -254,10 +258,11 @@ npm install
 3. Start the app:
 npm start
 
-## 🧠 Why this helps 
+### 🧠 Why this helps 
 - Keeps the main installation steps clean and professional.  
 - Provides a clear fallback if someone gets stuck.
 
 **Built with ❤️ to empower peer learning**
 
 # S k i l l S w a p - P e e r - t o - P e e r  S k i l l   E x c h a n g e   P l a t f o r m
+
