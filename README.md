@@ -296,13 +296,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Built with ❤️ to empower peer learning**
 
 
-# S k i l l S w a p - P e e r - t o - P e e r  S k i l l   E x c h a n g e   P l a t f o r m
-
-
-
-
-
-
 
 
 
