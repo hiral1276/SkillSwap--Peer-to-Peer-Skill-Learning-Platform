@@ -124,9 +124,9 @@ REACT_APP_API_URL=http://localhost:8000
 
 👉 Note: .env.example is included in the repo for reference, but the real .env file must be created locally. Without this, the project will not run.
 
-## Troubleshooting
+### Troubleshooting
 
-### Dependency Conflicts
+#### Dependency Conflicts
 If you encounter errors during `npm install` (e.g. peer dependency conflicts with React or date-fns):
 
 1. Delete old dependencies:
@@ -152,7 +152,7 @@ npm install
 npm start
 ```
 
-### 🧠 Why this helps 
+#### 🧠 Why this helps 
 - Keeps the main installation steps clean and professional.  
 - Provides a clear fallback if someone gets stuck.
 
@@ -301,6 +301,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 
 # S k i l l S w a p - P e e r - t o - P e e r  S k i l l   E x c h a n g e   P l a t f o r m
+
 
 
 
