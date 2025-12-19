@@ -124,6 +124,38 @@ REACT_APP_API_URL=http://localhost:8000
 
 👉 Note: .env.example is included in the repo for reference, but the real .env file must be created locally. Without this, the project will not run.
 
+## Troubleshooting
+
+### Dependency Conflicts
+If you encounter errors during `npm install` (e.g. peer dependency conflicts with React or date-fns):
+
+1. Delete old dependencies:
+
+- **Windows PowerShell**
+```powershell
+Remove-Item -Recurse -Force node_modules
+Remove-Item -Force .\package-lock.json
+Remove-Item -Force yarn.lock
+```
+- **Linux/Mac**
+```bash
+rm -rf node_modules package-lock.json yarn.lock
+```
+
+2. Reinstall fresh dependencies:
+```bash
+npm install
+```
+
+3. Start the app:
+```
+npm start
+```
+
+### 🧠 Why this helps 
+- Keeps the main installation steps clean and professional.  
+- Provides a clear fallback if someone gets stuck.
+
 
 ## 📁 Project Structure
 
@@ -264,42 +296,12 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - LinkedIn: Hiralben Mokariya (www.linkedin.com/in/hiralben-mokariya)
 - Email: hiralmokariya12@gmail.com
 
-## Troubleshooting
-
-### Dependency Conflicts
-If you encounter errors during `npm install` (e.g. peer dependency conflicts with React or date-fns):
-
-1. Delete old dependencies:
-
-- **Windows PowerShell**
-```powershell
-Remove-Item -Recurse -Force node_modules
-Remove-Item -Force .\package-lock.json
-Remove-Item -Force yarn.lock
-```
-- **Linux/Mac**
-```bash
-rm -rf node_modules package-lock.json yarn.lock
-```
-
-2. Reinstall fresh dependencies:
-```bash
-npm install
-```
-
-3. Start the app:
-```
-npm start
-```
-
-### 🧠 Why this helps 
-- Keeps the main installation steps clean and professional.  
-- Provides a clear fallback if someone gets stuck.
 
 **Built with ❤️ to empower peer learning**
 
 
 # S k i l l S w a p - P e e r - t o - P e e r  S k i l l   E x c h a n g e   P l a t f o r m
+
 
 
 
