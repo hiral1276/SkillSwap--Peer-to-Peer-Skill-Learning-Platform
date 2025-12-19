@@ -235,23 +235,24 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 If you encounter errors during `npm install` (e.g. peer dependency conflicts with React or date-fns):
 
 1. Delete old dependencies:
-   - **Windows PowerShell**
-     ```powershell
-     Remove-Item -Recurse -Force node_modules
-     Remove-Item -Force .\package-lock.json
-     Remove-Item -Force yarn.lock
-     ```
-   - **Linux/Mac**
-     ```bash
-     rm -rf node_modules package-lock.json yarn.lock
-     ```
+
+- **Windows PowerShell**
+```powershell
+Remove-Item -Recurse -Force node_modules
+Remove-Item -Force .\package-lock.json
+Remove-Item -Force yarn.lock
+```
+- **Linux/Mac**
+```bash
+rm -rf node_modules package-lock.json yarn.lock
+```
 
 2. Reinstall fresh dependencies:
-   ```bash
-   npm install
+```bash
+npm install
 
 3. Start the app:
-   npm start
+npm start
 
 ## 🧠 Why this helps 
 - Keeps the main installation steps clean and professional.  
