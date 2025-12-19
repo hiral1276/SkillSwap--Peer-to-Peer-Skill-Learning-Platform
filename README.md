@@ -256,19 +256,21 @@ rm -rf node_modules package-lock.json yarn.lock
 2. Reinstall fresh dependencies:
 ```bash
 npm install
+```
 
 3. Start the app:
+```
 npm start
-
+```
 
 ### 🧠 Why this helps 
 - Keeps the main installation steps clean and professional.  
 - Provides a clear fallback if someone gets stuck.
 
-
 **Built with ❤️ to empower peer learning**
 
 
 # S k i l l S w a p - P e e r - t o - P e e r  S k i l l   E x c h a n g e   P l a t f o r m
+
 
 
