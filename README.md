@@ -261,6 +261,4 @@ npm start
 **Built with ❤️ to empower peer learning**
 
  
-#   S k i l l S w a p - - P e e r - t o - P e e r - S k i l l - L e a r n i n g - P l a t f o r m 
- 
- 
+# 
