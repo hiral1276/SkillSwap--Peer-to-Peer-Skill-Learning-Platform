@@ -41,8 +41,10 @@ A modern, responsive peer-to-peer skill learning platform where users can teach 
 
 ### Mobile View
 ![Dashboard Page](frontend/screenshots/dashboard-mobile.png)
-![Profile Page](frontend/screenshots/profile-desktop.png)
-![Messages Page](frontend/screenshots/messages-desktop.png)
+
+![Profile Page](frontend/screenshots/profile-mobile.png)
+
+![Messages Page](frontend/screenshots/messages-mobile.png)
 
 
 ## 🛠️ Tech Stack
@@ -298,6 +300,7 @@ npm start
 
 
 # S k i l l S w a p - P e e r - t o - P e e r  S k i l l   E x c h a n g e   P l a t f o r m
+
 
 
 
