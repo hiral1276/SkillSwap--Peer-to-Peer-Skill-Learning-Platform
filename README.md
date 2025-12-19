@@ -68,6 +68,7 @@ uvicorn main:app --reload        # Runs on http://localhost:8000
 ```
 
 4. **Environment Setup**
+   
 This project uses environment variables for configuration.
 Both the frontend and backend require a .env file.
 
@@ -93,6 +94,7 @@ REACT_APP_API_URL=http://localhost:8000
 - Restart backend and frontend after editing .env.
 
 👉 Note: .env.example is included in the repo for reference, but the real .env file must be created locally. Without this, the project will not run.
+
 
 ## 📁 Project Structure
 
@@ -258,11 +260,15 @@ npm install
 3. Start the app:
 npm start
 
+
 ### 🧠 Why this helps 
 - Keeps the main installation steps clean and professional.  
 - Provides a clear fallback if someone gets stuck.
 
+
 **Built with ❤️ to empower peer learning**
 
+
 # S k i l l S w a p - P e e r - t o - P e e r  S k i l l   E x c h a n g e   P l a t f o r m
+
 
