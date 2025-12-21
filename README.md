@@ -6,7 +6,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-latest-009688?logo=fastapi)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](LICENSE)
 
-A modern, responsive peer-to-peer skill learning platform where users can teach skills they know and learn skills they want.
+A modern, responsive peer-to-peer skill exchange platform where users can teach skills they know and learn skills they want.
 
 ## ✨ Features
 
@@ -294,6 +294,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 
 **Built with ❤️ to empower peer learning**
+
 
 
 
